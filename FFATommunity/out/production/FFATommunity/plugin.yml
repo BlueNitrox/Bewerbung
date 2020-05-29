@@ -1,0 +1,20 @@
+name: TommunityFFA
+authors: [1BlueNitrox - Felix]
+main: me.bluenitrox.main.Main
+version: 1.0
+
+commands:
+  set:
+  build:
+  punkte:
+    aliases:
+      - points
+      - point
+      - p
+  kills:
+  Tode:
+  stats:
+  ffashop:
+  coins:
+  neustart:
+  fix:

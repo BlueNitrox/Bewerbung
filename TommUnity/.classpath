@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/fehen/Desktop/API/API.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fehen/Desktop/API/DeveloperAPI 1.8 - 1.14.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/fehen/Desktop/API/PermissionsEx-1.23.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fehen/Desktop/API/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fehen/Desktop/API/BungeeFriends [Spigot-API].jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spigot-1.8.8-R0.1-SNAPSHOT-latest"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/DeveloperAPI 1.8 - 1.14.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/BungeeFriends [Spigot-API]"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/PermissionsEx-1.23.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/API"/>
+	<classpathentry kind="lib" path="C:/Users/fehen/Desktop/ActionBarAPI-1.5.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

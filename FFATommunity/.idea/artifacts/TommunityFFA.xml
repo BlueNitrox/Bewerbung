@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TommunityFFA">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="TommunityFFA.jar">
+      <element id="module-output" name="FFATommunity" />
+      <element id="module-source" name="FFATommunity" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

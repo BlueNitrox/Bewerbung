@@ -1,0 +1,24 @@
+name: TommunityLobby
+author: 1BlueNitrox
+main: de.Tommunity.Main.Main
+version: 1.0
+
+commands:
+   report:
+   gm1:
+   gm0:
+   neustart:
+   build:
+   setloc:
+   hub:
+   setcb:
+   setFFA:
+   setspawn:
+   settnt:
+   coins:
+   setjnr:
+   ziel:
+      aliases:
+         - z
+   setshop:
+   trade:

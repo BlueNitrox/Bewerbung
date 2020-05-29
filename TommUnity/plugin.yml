@@ -1,0 +1,144 @@
+name: Tommunity_DE
+authors: [ TommunityDE - 1BlueNitrox - Felix]
+main: de.Tommunity.Main.Main
+version: 2.0.0
+website: www.tommunity.de
+
+commands:
+   clearchat:
+   dc:
+   money:
+      aliases:
+         - m
+         - balance
+         - geld
+         - konto
+         - kontostand
+   ec:
+   gm1:
+   gm0:
+   heal:
+   fly:
+   invsee:
+   i:
+   kit:
+   kopf:
+   mine:
+   pay:
+   plotworld:
+      aliases:
+         - pw
+   report:
+   setmine:
+   setpw:
+   setspawn:
+   spawn:
+   spec:
+   unspec:
+   tpa:
+   tpaccept:
+   tpdeny:
+   tphere:
+   tpo:
+   v:
+      aliases:
+         - vanish
+   craft:
+      aliases:
+         - werkbank
+   schmied:
+   koch:
+   bergmann:
+   kuenstler:
+   hexe:
+   exp:
+   Shopmine1:
+   Shopmine2:
+   Shopmine3:
+   Shopmine4:
+   Shopmine5:
+   Shopmine6:
+   Shopmine7:
+   Shopmine8:
+   Shopmine9:
+   Shopmine10:
+   Minenreset1:
+   Minenreset2:
+   Minenreset3:
+   Minenreset4:
+   Minenreset5:
+   Minenreset6:
+   Minenreset7:
+   Minenreset8:
+   Minenreset9:
+   Minenreset10:
+   chatclear:
+   team:
+   magier:
+   farmer:
+   handwerker:
+   sign:
+   1BlueNitrox:
+      aliases:
+         - nitrox
+         - hobbylos
+   zbytom:
+      aliases:
+         - tom
+         - owner
+         - lost
+   booster:
+   melon:
+   geschenk:
+   clan:
+   payA:
+   extraI:
+   neustart:
+   levelupcase:
+   hero:
+   master:
+   shop:
+   Clan:
+   ClanMessage:
+      aliases:
+         - cm
+   anvil:
+   Level:
+   arena:
+   buildmap:
+      aliases:
+         - bm
+   setbuildspawn:
+   setarena1:
+   setarena2:
+   token:
+   chest:
+   news:
+   dailyreward:
+   msgtoggle:
+   break:
+   kills:
+   deaths:
+   kisten:
+   stats:
+   setnpc1:
+   zombies:
+   setmobzonespawn:
+   mobzone:
+   shopzone1:
+   shopzone2:
+   shopzone3:
+   timo:
+   perk:
+   quest:
+   eventmine:
+   questwz:
+   reportopen:
+      aliases:
+         - ro
+   setzone:
+   marktplatz:
+   setmarkt:
+   gaertner:
+   moneytest:
+   anfang:

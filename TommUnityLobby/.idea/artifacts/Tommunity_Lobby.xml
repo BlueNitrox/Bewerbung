@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tommunity_Lobby">
+    <output-path>$PROJECT_DIR$/out/Tommunity_Lobby</output-path>
+    <root id="archive" name="Tommunity_Lobby.jar">
+      <element id="module-output" name="TommUnityLobby" />
+      <element id="module-source" name="TommUnityLobby" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BungeeCordNitrox">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="BungeeCordNitrox.jar">
+      <element id="module-output" name="BungeeCordNitrox" />
+      <element id="module-source" name="BungeeCordNitrox" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

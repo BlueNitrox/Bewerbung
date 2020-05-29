@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="API">
+    <archive path="C:/Users/fehen/Desktop/API.jar" />
+  </library>
+  <library name="BungeeFriends [Spigot-API]">
+    <archive path="C:/Users/fehen/Desktop/BungeeFriends [Spigot-API].jar" />
+  </library>
+  <library name="DeveloperAPI 1.8 - 1.14.2">
+    <archive path="C:/Users/fehen/Desktop/DeveloperAPI 1.8 - 1.14.2.jar" />
+  </library>
+  <library name="PermissionsEx-1.23.4">
+    <archive path="C:/Users/fehen/Desktop/localhost/plugins/PermissionsEx-1.23.4.jar" />
+  </library>
+  <library name="spigot-1.8.8-R0.1-SNAPSHOT-latest">
+    <archive path="C:/Users/fehen/Desktop/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar" />
+  </library>
+</eclipse-userlibraries>
+
